@@ -12,7 +12,7 @@ Given an unsorted array arr[] of size N, rotate it by D elements (clockwise).
 1. 10 3
 2. 2 4 6 8 10 12 14 16 18 20
 
-## Output3:##
+## Output3: ##
 8 10 12 14 16 18 20 2 4 6
 
 ### Time Complexity ###
