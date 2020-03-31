@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/Arrays/BalancedArray/BalancedArray/obj
+/Arrays/BalancedArray/BalancedArray/bin/Debug/netcoreapp3.0
+/Arrays/BalancedArray/BalancedArray/.vs/BalancedArray/v16
+/Arrays/RotateArray
